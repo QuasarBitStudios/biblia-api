@@ -1,0 +1,92 @@
+# =============== #
+# .NET / C# Ignore
+# =============== #
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+out/
+
+## VS Code / Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Compiled files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.config
+*.manifest
+
+## Packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.pkgproj
+
+## Publish outputs
+publish/
+dist/
+App_Data/
+
+## Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.dbmdl
+*.jfm
+
+## JetBrains Rider
+.idea/
+
+## OS-specific
+.DS_Store
+Thumbs.db
+
+## Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+## ASP.NET specific
+wwwroot/lib/
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+## Secrets / Local config
+appsettings.Development.json
+appsettings.Local.json
+*.secret.json
+.env
+.env.*
+
+## Generated docs / cache
+docfx_project/_site/
+*.cache/
+*.log
+
+## ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+## Unity (caso use algum módulo em Unity)
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+
+# End of .gitignore

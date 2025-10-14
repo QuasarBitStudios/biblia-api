@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kcsPSJ4ws08685TYGXWPrnpyUq1S15nMCmcVeJrPoGU=",
+  "Source": "BibliaAPI",
+  "BasePath": "_content/BibliaAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
