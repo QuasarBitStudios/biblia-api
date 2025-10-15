@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{011BE43E-B7E9-4B9D-9653-199979D97861}|BibliaAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{011BE43E-B7E9-4B9D-9653-199979D97861}|BibliaAPI.csproj|c:\\users\\victor\\source\\repos\\bibliaapi\\retorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011BE43E-B7E9-4B9D-9653-199979D97861}|BibliaAPI.csproj|solutionrelative:retorno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{011BE43E-B7E9-4B9D-9653-199979D97861}|BibliaAPI.csproj|c:\\users\\victor\\source\\repos\\bibliaapi\\responsemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011BE43E-B7E9-4B9D-9653-199979D97861}|BibliaAPI.csproj|solutionrelative:responsemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,12 +31,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Retorno.cs",
-              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\BibliaAPI\\Retorno.cs",
-              "RelativeDocumentMoniker": "Retorno.cs",
-              "ToolTip": "C:\\Users\\Victor\\source\\repos\\BibliaAPI\\Retorno.cs",
-              "RelativeToolTip": "Retorno.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAACoAAAAcAAAAAAAAAA==",
+              "Title": "ResponseModels.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\BibliaAPI\\ResponseModels.cs",
+              "RelativeDocumentMoniker": "ResponseModels.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\BibliaAPI\\ResponseModels.cs",
+              "RelativeToolTip": "ResponseModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T20:09:10.835Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Victor\\source\\repos\\BibliaAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T19:35:11.646Z",
               "EditorCaption": ""

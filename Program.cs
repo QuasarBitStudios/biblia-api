@@ -63,7 +63,7 @@ if (!string.IsNullOrEmpty(ip))
             if (diff.TotalSeconds < 1)
             {
                 context.Response.StatusCode = 429;
-                await context.Response.WriteAsync("Opa, você esta com pressa? lembre-se dos limites da nossa api: quasarbit.com.br/bibliaapi.html");
+                await context.Response.WriteAsync("Opa, você esta com pressa? lembre-se dos limites da nossa api: https://quasarbit.com.br/biblia-api/doc");
                 return;
             }
             requestTimestamps[ip] = DateTime.UtcNow;

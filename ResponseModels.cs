@@ -36,6 +36,8 @@ namespace BibliaAPI
         {
             [JsonPropertyName("uuid")]
             public string Uuid { get; set; } = null!;
+            [JsonPropertyName("aviso")]
+            public string? Aviso { get; set; } = "Guarde seu UUID em um local seguro! em caso de extravio/perda, entre em contato conosco: bibliaapi@quasarbit.com.br";
         }
         [Table("Usuarios")]
         public class Usuarios : BaseModel
