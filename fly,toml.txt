@@ -1,0 +1,24 @@
+app = "biblia-api"  # Nome da sua app no Fly.io
+
+[build]
+  image = "mcr.microsoft.com/dotnet/aspnet:7.0"  # ou 6.0 dependendo do seu target
+
+[env]
+  PORT = "8080"  # Fly.io passa a porta via variável de ambiente
+
+[[services]]
+  internal_port = 8080
+  protocol = "tcp"
+
+  [[services.ports]]
+    port = 8080
+    handlers = ["http"]
+
+  [[services.ports]]
+    port = 443
+    handlers = ["tls", "http"]
+
+  [services.concurrency]
+    type = "connections"
+    soft_limit = 20
+    hard_limit = 25
